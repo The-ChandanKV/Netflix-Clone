@@ -24,7 +24,7 @@ This is a **Netflix Clone** built using **HTML & CSS**. It replicates the UI of 
    ```No additional setup required!
 
    
-##Folder Structure
+## Folder Structure
 📂 Netflix Clone  
  ┣ 📜 index.html  
  ┣ 📂 assets  
