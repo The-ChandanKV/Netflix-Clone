@@ -21,8 +21,7 @@ This is a **Netflix Clone** built using **HTML & CSS**. It replicates the UI of 
    git clone https://github.com/yourusername/netflix-clone.git
    cd netflix-clone
 2. **Open index.html in a browser**
-   ```No additional setup required!
-
+   
    
 ## Folder Structure
 📂 Netflix Clone  
